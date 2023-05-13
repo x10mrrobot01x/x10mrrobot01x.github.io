@@ -1,4 +1,4 @@
-# Multiple Regression Analysis
+# Interpreting Multiple Regression Analysis
 
 ---
 
