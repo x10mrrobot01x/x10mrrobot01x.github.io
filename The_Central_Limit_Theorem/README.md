@@ -166,4 +166,4 @@ print("Probability that a specific mean is 450 or less =", round(prob_450_less_o
 ```python
 
 ```
-[Next: Module 3 - Confidence_Intervals_and_Hypothesis_Testing](../Confidence_Intervals_and_Hypothesis_Testing/README.md)
+[Next: Module 3 - Confidence Intervals and Hypothesis Testing](../Confidence_Intervals_and_Hypothesis_Testing/README.md)
