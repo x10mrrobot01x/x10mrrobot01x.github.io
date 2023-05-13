@@ -197,4 +197,4 @@ print(model.summary())
 ```python
 
 ```
-[BACK](../README.md)
+[Next: Module 6 - Creating a Multiple Regression Model](../Creating_a_Multiple_Regression_Model/README.md)
