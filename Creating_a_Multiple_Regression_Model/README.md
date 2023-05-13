@@ -220,4 +220,4 @@ print(model.summary())
 ```python
 
 ```
-[BACK](../README.md)
+[Next: Module 7 - Interpreting Multiple Regression Models](../Interpreting_Multiple_Regression_Models/README.md)
