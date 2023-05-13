@@ -1,0 +1,19 @@
+theme: jekyll-theme-hacker
+title: ROBOT
+description: Character is higher than intellect. A great soul will be strong to live as well as think.
+show_downloads: false
+show_repo: false
+
+safe: true
+
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+  - some-other-jekyll-plugin
+  
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
