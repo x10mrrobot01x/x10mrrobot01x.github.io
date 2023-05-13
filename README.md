@@ -1,5 +1,4 @@
-# Notes for Applied Statistics
-Notes on Applied Statistics for STEM
+# Notes for Applied Statistics for STEM
 
 ### [Module 1 - Descriptive Statistics](/Descriptive_Statistics/README.md)
 ### [Module 2 - The Central Limit Theorem](/The_Central_Limit_Theorem/README.md)
