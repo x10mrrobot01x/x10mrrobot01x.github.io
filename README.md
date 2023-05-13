@@ -10,4 +10,4 @@
 - **[Module 7 - Interpreting Multiple Regression Models](/Interpreting_Multiple_Regression_Models/README.md)**
 - **[Module 8 - One-Way ANOVA](/One-Way_ANOVA/README.md)**
 
-#### ![Crafty Shrewds - SPIV.IO](https://discord.gg/Zsr2udMmXP)
+#### [Crafty Shrewds - SPIV.IO](https://discord.gg/Zsr2udMmXP)
