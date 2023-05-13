@@ -128,4 +128,4 @@ print("two tailed p-value =",round(p_value,4))
 ```python
 
 ```
-[Next: Module 4 - Hypothesis_Testing_for_the_Difference_Between_Two_Population_Parameters](../Hypothesis_Testing_for_the_Difference_Between_Two_Population_Parameters/README.md)
+[Next: Module 4 - Hypothesis Testing for the Difference Between Two Population Parameters](../Hypothesis_Testing_for_the_Difference_Between_Two_Population_Parameters/README.md)
