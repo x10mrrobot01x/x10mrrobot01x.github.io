@@ -3,7 +3,7 @@
 Welcome to the Data-Statistics-Notes repository! This is a collection of notes on applied statistics for STEM (Science, Technology, Engineering, and Mathematics) fields. 
 
 <p align="center">
-  <img src="Statistics.png" style="border: 2px solid  blue;">
+  <img src="Statistics.png" style="border: 2px solid  blue;"/>
 </p>
 ## Modules
 
@@ -26,4 +26,4 @@ Join our Discord server to connect with other students and experts in statistics
 
 ## Crafty Shrewds - SPIV.IO
 
-Crafty Shrewds is a community of data enthusiasts who use SPIV.IO to gain insights from data. Join us to learn how to use SPIV.IO and explore the world of data analytics.
+Crafty Shrewds is a community of data enthusiasts who use [SPIV.IO](https://discord.gg/qaSXnqZmfC) to gain insights from data. Join us to learn how to use [SPIV.IO](https://discord.gg/qaSXnqZmfC) and explore the world of data analytics.
