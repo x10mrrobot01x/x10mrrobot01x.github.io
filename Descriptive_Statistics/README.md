@@ -140,4 +140,4 @@ plt.show()
 ```python
 
 ```
-[BACK](../README.md)
+[Next: Module 2 - The Central Limit Theorem](../The_Central_Limit_Theorem/README.md)
