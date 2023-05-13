@@ -3,7 +3,7 @@
 Welcome to the Data-Statistics-Notes repository! This is a collection of notes on applied statistics for STEM (Science, Technology, Engineering, and Mathematics) fields. 
 
 <p align="center">
-  <img src="Statistics.png" style="border: 2px solid  blue;"/>
+  <img src="Statistics.png" style="border: 2px solid  cyan;"/>
 </p>
 ## Modules
 
