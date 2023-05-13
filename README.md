@@ -9,3 +9,5 @@
 - **[Module 6 - Creating a Multiple Regression Model](/Creating_a_Multiple_Regression_Model/README.md)**
 - **[Module 7 - Interpreting Multiple Regression Models](/Interpreting_Multiple_Regression_Models/README.md)**
 - **[Module 8 - One-Way ANOVA](/One-Way_ANOVA/README.md)**
+
+- ![Crafty Shrewds - SPIV.IO](https://img.shields.io/discord/721959501871317096?logoColor=blue&style=plastic)
