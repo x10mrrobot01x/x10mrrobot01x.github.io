@@ -9,14 +9,14 @@ Welcome to the Data-Statistics-Notes repository! This is a collection of notes o
 
 The repository covers the following modules:
 
-- [Module 1: Descriptive Statistics](module1.md)
-- [Module 2: The Central Limit Theorem](module2.md)
-- [Module 3: Confidence Intervals and Hypothesis Testing](module3.md)
-- [Module 4: Hypothesis Testing for the Difference Between Two Population Parameters](module4.md)
-- [Module 5: Simple Linear Regression](module5.md)
-- [Module 6: Creating a Multiple Regression Model](module6.md)
-- [Module 7: Interpreting Multiple Regression Models](module7.md)
-- [Module 8: One-Way ANOVA](module8.md)
+- [Module 1: Descriptive Statistics](https://x10mrrobot01x/Data-Statistics-Notes/Descriptive_Statistics/README.md)
+- [Module 2: The Central Limit Theorem](https://x10mrrobot01x/Data-Statistics-Notes/The_Central_Limit_Theorem/README.md)
+- [Module 3: Confidence Intervals and Hypothesis Testing](https://x10mrrobot01x/Data-Statistics-Notes/Confidence_Intervals_and_Hypothesis_Testing/README.md)
+- [Module 4: Hypothesis Testing for the Difference Between Two Population Parameters](https://x10mrrobot01x/Data-Statistics-Notes/Hypothesis_Testing_for_the_Difference_Between_Two_Population_Parameters/README.md)
+- [Module 5: Simple Linear Regression](https://x10mrrobot01x/Data-Statistics-Notes/Simple_Linear_Regression.README.md)
+- [Module 6: Creating a Multiple Regression Model](https://x10mrrobot01x/Data-Statistics-Notes/Creating_a_Multiple_Regression_Model/README.md)
+- [Module 7: Interpreting Multiple Regression Models](https://x10mrrobot01x/Data-Statistics-Notes/Interpreting_Multiple_Regression_Models/README.md)
+- [Module 8: One-Way ANOVA](https://x10mrrobot01x/Data-Statistics-Notes/One-Way_ANOVA/README.md)
 
 Each module includes comprehensive notes, examples, and practice problems to help you deepen your understanding of applied statistics concepts.
 
