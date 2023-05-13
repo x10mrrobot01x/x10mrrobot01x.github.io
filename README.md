@@ -1,4 +1,4 @@
-![Statistics Image](https://wallpapercave.com/wp/wp3098918.jpg)
+![Statistics Image](Statistics.png)
 # Notes for Applied Statistics for STEM
 
 ### [Module 1 - Descriptive Statistics](/Descriptive_Statistics/README.md)
