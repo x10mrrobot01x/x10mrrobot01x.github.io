@@ -1,4 +1,6 @@
-### Multiple Regression Analysis
+# Multiple Regression Analysis
+
+---
 
 #### 1. Overall Model Significance (F-test)
 - **Null Hypothesis (H0)**: β1 = β2 = 0 (Both slope coefficients are zero, implying weight and horsepower have no effect on MPG.)
