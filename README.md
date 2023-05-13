@@ -1,7 +1,7 @@
 ![Statistics Image](Statistics.png)
 # Notes in Applied Statistics for STEM
 
-- **[Module 1 - Descriptive Statistics]**(/Descriptive_Statistics/README.md)
+- [Module 1 - Descriptive Statistics](/Descriptive_Statistics/README.md)
 - **[Module 2 - The Central Limit Theorem](/The_Central_Limit_Theorem/README.md)**
 - **[Module 3 - Confidence Intervals and Hypothesis Testing](/Confidence_Intervals_and_Hypothesis_Testing/README.md)**
 - **[Module 4 - Hypothesis Testing for the Difference Between Two Population Parameters](/Hypothesis_Testing_for_the_Difference_Between_Two_Population_Parameters/README.md)**
