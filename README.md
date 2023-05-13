@@ -11,4 +11,4 @@
 - **[Module 8 - One-Way ANOVA](/One-Way_ANOVA/README.md)**
 
 #### Discord Server
-- [Crafty Shrewds - SPIV.IO](https://discord.gg/Zsr2udMmXP)
+- **[Crafty Shrewds - SPIV.IO](https://discord.gg/Zsr2udMmXP)**
