@@ -28,3 +28,5 @@ Given that the p-value is much less than the significance level of 0.05, we reje
 ---
 
 In conclusion, both weight and horsepower are significant predictors of MPG. The overall model is significant and explains a substantial portion of the variation in MPG.
+
+[BACK](../README.md)
