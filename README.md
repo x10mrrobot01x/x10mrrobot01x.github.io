@@ -1,6 +1,6 @@
 # Notes for Applied Statistics
 Notes taken for MAT-243 Applied Statistics for STEM
----
+
 ### [Module 1 - Descriptive Statistics](/Descriptive_Statistics/README.md)
 ### [Module 2 - The Central Limit Theorem](/The_Central_Limit_Theorem/README.md)
 ### [Module 3 - Confidence Intervals and Hypothesis Testing](/Confidence_Intervals_and_Hypothesis_Testing/README.md)
