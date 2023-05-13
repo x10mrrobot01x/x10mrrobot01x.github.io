@@ -83,4 +83,4 @@ print("two tailed p-value =", round(p_value,4))
 ```python
 
 ```
-[BACK](../README.md)
+[Next: Module 5 - Simple Linear Regression](../Simple_Linear_Regression/README.md)
