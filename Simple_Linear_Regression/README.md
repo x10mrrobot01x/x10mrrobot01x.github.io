@@ -1,3 +1,7 @@
+# Simple Linear Regression
+
+---
+
 ```python
 import pandas as pd
 from IPython.display import display, HTML
