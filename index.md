@@ -31,7 +31,7 @@ Crafty Shrewds is a community of data enthusiasts who use [SPIV.IO](https://disc
 ---
 
 <p align="center">
-  <img src=https://i.gifer.com/BI60.gif/>
+  <img src="https://i.gifer.com/BI60.gif"/>
 </p>
 
 <p align='center'>
