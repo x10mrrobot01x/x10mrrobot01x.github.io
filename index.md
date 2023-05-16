@@ -30,10 +30,12 @@ Crafty Shrewds is a community of data enthusiasts who use [SPIV.IO](https://disc
 
 ---
 
-<p align="center"><img src=https://i.gifer.com/BI60.gif></p>
+<p align="center">
+  <img src=https://i.gifer.com/BI60.gif/>
+</p>
 
 <p align='center'>
   <a href="https://twitter.com/MrRobot38159405" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" width="80px" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" width="80px" style="margin-right: 10px;"/>
   </a>
 </p>
