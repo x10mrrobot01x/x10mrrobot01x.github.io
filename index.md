@@ -27,3 +27,13 @@ Join our Discord server to connect with other students and experts in statistics
 ## Crafty Shrewds - SPIV.IO
 
 Crafty Shrewds is a community of data enthusiasts who use [SPIV.IO](https://discord.gg/qaSXnqZmfC) to gain insights from data. Join us to learn how to use [SPIV.IO](https://discord.gg/qaSXnqZmfC) and explore the world of data analytics.
+
+---
+
+<p align="center"><img src=https://i.gifer.com/BI60.gif></p>
+
+<p align='center'>
+  <a href="https://twitter.com/MrRobot38159405" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" width="80px" style="margin-right: 10px;">
+  </a>
+</p>
