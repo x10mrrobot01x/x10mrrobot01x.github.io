@@ -22,11 +22,11 @@ Each module includes comprehensive notes, examples, and practice problems to hel
 
 ## Discord Server
 
-Join our Discord server to connect with other students and experts in statistics. Ask questions, share your knowledge, and collaborate with others to improve your understanding of statistics.
+Join our Discord server to connect with other students and experts in statistics. Ask questions, share your knowledge, and collaborate with others to improve your understanding of statistics.[Crafty Shrewds - SPIV.IO](https://discord.gg/qaSXnqZmfC)
 
 ## Crafty Shrewds - SPIV.IO
 
-Crafty Shrewds is a community of data enthusiasts who use [SPIV.IO](https://discord.gg/qaSXnqZmfC) to gain insights from data. Join us to learn how to use [SPIV.IO](https://discord.gg/qaSXnqZmfC) and explore the world of data analytics.
+Crafty Shrewds is a community of data enthusiasts who use [SPIV.IO](https://spiv.io) to gain insights from data. Join us to learn how to use and explore the world of data analytics.
 
 ---
 
